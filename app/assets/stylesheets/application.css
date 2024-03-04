@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+.chat {
+  border-left: 10px solid rgb(179, 179, 179);
+  margin: 20px 0px;
+  padding: 10px 15px;
+}
+
+.answer {
+  background-color: rgba(252, 252, 214, 0.464);
+}
